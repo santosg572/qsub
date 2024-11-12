@@ -1,0 +1,20 @@
+Getting Information on the Queues
+
+https://web.ua.es/en/cluster-iuii/resource-manager/qsub-sending-jobs-serials.html
+
+https://software.fujitsu.com/jp/manual/manualfiles/m150006/j2x13160/13enz200/j3160-00-07-19-00.html
+
+https://bioinformatics.mdc-berlin.de/intro2UnixandSGE/sun_grid_engine_for_beginners/how_to_submit_a_job_using_qsub.html
+
+https://docs.adaptivecomputing.com/torque/4-1-3/Content/topics/commands/qsub.htm
+
+https://www.nas.nasa.gov/hecc/support/kb/commonly-used-qsub-command-options_175.html
+
+https://ncar-hpc-docs.readthedocs.io/en/latest/pbs/#qhist
+
+https://iowabiostat.github.io/hpc/9.html
+
+https://wvuhpc.github.io/text/33.job_samples.html
+
+
+

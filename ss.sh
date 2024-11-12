@@ -1,9 +1,9 @@
 #!/bin/bash
 
-for i in $(seq 1 1000)
+for i in $(seq 1 10)
 do
   echo $i
-  qsub sleep.sh
+  qsub -q nvidia.q ./sleep.sh
 done
 
 
